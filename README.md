@@ -1,5 +1,5 @@
 ---
-summary: 'Quick project summary shown here.'
+summary: 'Write the CSS for all the different button styles in your dog rescue pattern library.'
 time: '2 hours'
 deliverables: 'Pattern library'
 ---
