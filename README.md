@@ -1,5 +1,5 @@
 ---
-summary: 'Write the CSS for all the different button styles in your dog rescue pattern library.'
+summary: 'Write the CSS for all the different button styles in your eCommerce pattern library.'
 time: '2 hours'
 deliverables: 'Pattern library'
 ---
@@ -8,7 +8,7 @@ deliverables: 'Pattern library'
 
 ## Overview
 
-- *Continue work on your `dog-rescue-pattern-library`*
+- *Continue work on your `ecommerce-pattern-library`*
 - Working on your `button` pattern, style all the buttons necessary for your website.
 - Think about all the different styles you’ll need: Do you need small buttons? Big buttons? Different colours? Different shapes? Will you need buttons with icons in the future?
 - Add transitions, gradients & hover states to the buttons.
