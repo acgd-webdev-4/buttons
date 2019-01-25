@@ -19,7 +19,7 @@ deliverables: 'Pattern library'
 
 - *Default button:* Style the default `.btn` class
 - *Extra buttons:* Style all the other classes you’ll need for your website. If `.btn-ghost` & `.btn-light` don’t make sense create new classes.
-- *When & why:* In the `README.md` file describe when to use each button style and why the buttons are the way they are.
+- *When & why:* In the `config.yml` file describe when to use each button style and why the buttons are the way they are.
 
 ---
 
